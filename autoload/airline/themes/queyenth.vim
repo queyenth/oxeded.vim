@@ -1,8 +1,8 @@
 let g:airline#themes#queyenth#palette = {}
 
-let s:N1   = [ '#242424', '#489FA1', 235, 153 ]
-let s:N2   = [ '#242424', '#E0777F', 235, 174 ]
-let s:N3   = [ '#ffffff', '#242424', 231, 59 ]
+let s:N1   = [ '#242424', '#489FA1', 235, 73 ]
+let s:N2   = [ '#242424', '#E0777F', 235, 153 ]
+let s:N3   = [ '#ffffff', '#242424', 253, 59 ]
 let g:airline#themes#queyenth#palette.normal = airline#themes#generate_color_map(s:N1, s:N2, s:N3)
 
 let g:airline#themes#queyenth#palette.normal.airline_warning = [ '#1c1c1c', '#ffe193', 234, 222 ]
