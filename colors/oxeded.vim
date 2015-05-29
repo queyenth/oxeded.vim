@@ -1,7 +1,7 @@
 " ----------------------------------------------------------------------------
 " Vim color file
 " Maintainer:   Queyenth <queyenth@gmail.com>
-" Last Change:  2014 May
+" Last Change:  2015 May
 " License:      Beer Ware
 " ----------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ endif
 set background=dark
 set linespace=3
 
-let g:colors_name = "queyenth"
+let g:colors_name = "oxeded"
 
 hi Normal               cterm=none ctermbg=none     ctermfg=231      gui=none        guibg=#242424   guifg=#F7F7F7
 hi LineNr               cterm=none ctermbg=none     ctermfg=245       gui=none        guibg=#242424   guifg=#8F8F8F
