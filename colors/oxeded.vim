@@ -56,6 +56,11 @@ hi CursorLine           cterm=none ctermbg=238      ctermfg=none    gui=none    
 hi CursorColumn         cterm=none ctermbg=238      ctermfg=none    gui=none        guibg=#424242
 hi Title                cterm=none ctermbg=none     ctermfg=116       gui=none                        guifg=#88CCE7
 
+" Tab
+hi TabLine          term=bold cterm=bold ctermbg=235 ctermfg=15
+hi TabLineFill          term=bold cterm=bold ctermbg=235 ctermfg=15
+hi TabLineSel          term=bold cterm=bold ctermbg=73 ctermfg=235
+
 " ----------------------------------------------------------------------------
 " Syntax Highlighting
 " ----------------------------------------------------------------------------
