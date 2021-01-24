@@ -36,7 +36,7 @@ hi SpellBad             cterm=none ctermbg=174        ctermfg=253      gui=none 
 hi SpellCap             cterm=none ctermbg=69        ctermfg=253      gui=none         guibg=#5c77f9  guifg=#dedede
 hi SpellRare            cterm=none ctermbg=69        ctermfg=253      gui=none         guibg=#5c77f9  guifg=#dedede
 hi SpellLocal           cterm=none ctermbg=69        ctermfg=253      gui=none         guibg=#5c77f9  guifg=#dedede
-hi Visual               cterm=none ctermbg=253       ctermfg=145       gui=none        guibg=#dedede   guifg=#b0b0b0
+hi Visual               cterm=none ctermbg=253       ctermfg=145       gui=none        guibg=#489fa1   guifg=#dedede
 hi Directory            cterm=none ctermbg=none     ctermfg=69       gui=none                        guifg=#5C77f9
 hi SpecialKey           cterm=none ctermbg=none     ctermfg=145       gui=none                        guifg=#b0b0b0
 hi DiffAdd              cterm=bold ctermbg=107        ctermfg=253        gui=bold        guibg=#88b86e   guifg=#dedede
