@@ -15,37 +15,7 @@ set background=dark
 set linespace=3
 
 let g:colors_name = "oxeded"
-" 30 -> #008787
-" 37 -> #00afaf
-" 61 -> #5f5faf
-" 73 -> #5fafaf
-" 80 -> #5fd7d7
-" 107 -> #87af5f
-" 150 -> #afd787
-" 221 -> #ffd75f
-" 222 -> #ffd787
 
-" #242424 -> background, cterm -> none
-" #F7F7F7 -> foreground, delimiter, cterm -> 15
-" #8F8F8F -> alt foreground, comment, cterm -> 245
-" #5D5D5D -> alt background, cterm -> 59
-" #FBFBFB -> idk, cterm -> 15, occurs only twice, not sure we really need it.
-" #2EB5C1 -> search keyword, interpolation, cterm -> 37, which is kinda
-" different.
-" #FAB1AB -> symbol, cterm -> 140
-" #F6DC69 -> inc search, string, number, wtf sometimes it 150, 221, 222, need
-" to check it
-" #000000 -> column margin, idk, cterm -> 0, idk
-" #3B3B3B -> alt background, cterm -> 237
-" #CDEE69 -> preproc, cterm -> 80
-" #D1FA71 -> statement, cterm -> 73
-" #90AB41 -> green, folded, cterm -> 107
-" #8EB33B -> keyword, cterm -> 61
-" #96D9F1 -> identifier => 153, constant => 69, type => 74
-" #9DEEF2 -> structure, cterm -> 30
-" #88CCE7 -> directory, title -> 116
-"
-" What about our cterms, though?
 hi Normal               cterm=none ctermbg=none     ctermfg=253      gui=none        guibg=#282828   guifg=#dedede
 hi LineNr               cterm=none ctermbg=none     ctermfg=59       gui=none        guibg=#282828   guifg=#5d5d5d
 hi StatusLine           cterm=none ctermbg=59        ctermfg=253      gui=none        guibg=#5D5D5D   guifg=#dedede
