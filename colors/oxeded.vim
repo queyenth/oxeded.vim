@@ -66,7 +66,7 @@ hi Identifier           cterm=none ctermbg=none ctermfg=153          gui=none   
 hi Structure            cterm=none ctermbg=none ctermfg=30          gui=none        guifg=#008787
 hi Ignore               cterm=none ctermbg=none ctermfg=8           gui=none        guifg=#b0b0b0
 hi Constant             cterm=none ctermbg=none ctermfg=62          gui=none        guifg=#4c61d9
-hi PreProc              cterm=none ctermbg=none ctermfg=80          gui=none        guifg=#5ed1d3
+hi PreProc              cterm=none ctermbg=none ctermfg=134          gui=none        guifg=#a76fc7
 hi Type                 cterm=none ctermbg=none ctermfg=74         gui=none        guifg=#5fafd7
 hi Statement            cterm=none ctermbg=none ctermfg=73          gui=none        guifg=#489fa1
 hi Special              cterm=none ctermbg=none ctermfg=131           gui=none        guifg=#ad5c62
